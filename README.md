@@ -60,4 +60,6 @@ vue
         color: blue
     }
 </style>
-# -
+# -vue 搭建项目及一些别的相关问题
+
+http://www.cnblogs.com/wisewrong/p/6255817.html
