@@ -1,14 +1,14 @@
-# -开发中遇到的疑问
-# -WeUi实例网址：
+# 1、 -开发中遇到的疑问
+# 2、-WeUi实例网址：
 https://weui.io/#
-# -微信H5调用支付接口：
+# 3、-微信H5调用支付接口：
 https://pay.weixin.qq.com/wiki/doc/api/jsapi.php?chapter=7_7&index=6
-# -关于vux $stroe getter 
+# 4、-关于vux $stroe getter 
 https://vuex.vuejs.org/zh-cn/mutations.html
-# -首次进入组件的页面会报错（返回数据的body找不到）
+# 5、-首次进入组件的页面会报错（返回数据的body找不到）
 原因：var x = this.$store.getters.all_myrest_QueryGrowthRecord这样写会报错；
       var x = this.$store.getters.all_myrest_QueryGrowthRecord.body这样不报错；
-# -在vue中 还可以这样添加类名 -vue动态添加类名
+# 6、-在vue中 还可以这样添加类名 -vue动态添加类名
 vue 
 动态添加class类名，灵活得让你发狂，下面示例几个
 
@@ -60,6 +60,10 @@ vue
         color: blue
     }
 </style>
-# -vue 搭建项目及一些别的相关问题
+#  7、-vue 搭建项目及一些别的相关问题
 
 http://www.cnblogs.com/wisewrong/p/6255817.html
+
+#  8、-关于比较头疼的es6的代码规范
+
+http://www.jianshu.com/p/69bfcb95b8d7
