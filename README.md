@@ -79,4 +79,6 @@ http://www.jianshu.com/p/69bfcb95b8d7
     http://blog.sina.com.cn/s/blog_a201dc3f0102w1pk.html
  #  11、-点击图片放大 
     http://blog.csdn.net/qq_33072593/article/details/74276766
+ #  12、-socket.io中文版 
+    https://zhuanlan.zhihu.com/p/29148869
  
