@@ -81,4 +81,5 @@ http://www.jianshu.com/p/69bfcb95b8d7
     http://blog.csdn.net/qq_33072593/article/details/74276766
  #  12、-socket.io中文版 
     https://zhuanlan.zhihu.com/p/29148869
- 
+ #  13、-安卓与H5交互 
+ http://www.igooda.cn/jzjl/20141212737.html
